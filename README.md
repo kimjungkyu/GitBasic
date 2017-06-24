@@ -1,3 +1,0 @@
-# GitBasic
-
-read.me
