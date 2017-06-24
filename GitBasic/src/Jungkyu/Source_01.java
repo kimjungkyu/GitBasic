@@ -29,5 +29,6 @@ public class Source_01 {
 						for(int j=0; j < intArray[i].length; j++)
 					System.out.print(intArray[i][j]+" ");
 				System.out.println(" ");}
+					System.out.println("-----상호와 정규의 첫작품");
 	}
 }
